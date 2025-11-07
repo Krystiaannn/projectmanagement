@@ -1,0 +1,5 @@
+print("Krystian")
+name = "Krystian"
+check = input("Enter name: ")
+if check == name
+  print("Well in")
